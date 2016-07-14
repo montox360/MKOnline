@@ -64,10 +64,9 @@
     @yield('content')
      <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <!-- Include all compiled plugins (below), or include individual files as needed -->      
+    
+  <!-- </script> -->
     {!!Html::script('js/bootstrap.min.js')!!}   
     {!!Html::script('js/tm-scripts.js')!!}   
-  <!-- </script> -->
-
-
   </body>
 </html>

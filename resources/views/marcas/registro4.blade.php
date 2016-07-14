@@ -22,7 +22,7 @@
 							<br>
 							<label>
 							{!!Form::checkbox('uso', '2')!!}
-							{!!Form::label('No, pero tengo intenciones de usarla para vender productos en el futuro')!!}
+							{!!Form::label('No, pero tengo intenciones de usarla para vender productos o servicios en el futuro')!!}
 							</label>
 							<br>
 							<br>
