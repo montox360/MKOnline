@@ -60,6 +60,10 @@ class MarcasController extends Controller
              case '5':
                 return view('marcas.registro6');
                 break;
+
+            case '6':
+                return view('marcas.registro7');
+                break;
         }  //
     }
 
